@@ -44,5 +44,5 @@
 - [Musa Shedrach - React || Next.js || Tailwind CSS](https://github.com/sheddy450)
 - [Favio Valero - |Front End Developer](https://github.com/favio102/)
 - [Ruben Roque - Full Stack Developer](https://github.com/0xRoque/)
-- [Ieza Souza - Full Stack Developer] (https://github.com/IezaSouza/)
+- [Ieza Souza - Full Stack Developer](https://github.com/IezaSouza/)
   
